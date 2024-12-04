@@ -1,0 +1,23 @@
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: khaki;
+    color: rgb(0, 0, 0);
+    border: 2px solid green;
+}
+  .n{
+    background-color: orangered;
+    color: rgb(10, 104, 212);
+    font-size: 30px;
+    font-family:sans-serif ;
+  }
+  .newclass{
+    background-color: green;
+  } 
+  
+  .div{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border: 2px solid yellowgreen;
+  }
